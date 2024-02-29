@@ -2,7 +2,7 @@
 
 ## Setup environment
 ```
-pip install numpy pandas matplotlib seaborn streamlit
+pip install numpy pandas matplotlib seaborn statsmodel
 ```
 
 ## Run steamlit app
