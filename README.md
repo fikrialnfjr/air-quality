@@ -9,3 +9,8 @@ pip install numpy pandas matplotlib seaborn streamlit
 ```
 streamlit run main.py
 ```
+
+## Link Hasil Deploy di Streamlit
+```
+https://air-quality-shunyi.streamlit.app/
+```
