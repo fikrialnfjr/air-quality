@@ -63,3 +63,5 @@ for pm_column in selected_pm_columns:
     with col2:
         if selected_years:
             plot_avg_pm_month(pm_column, selected_years)
+
+st.set_option('deprecation.showPyplotGlobalUse', False)
